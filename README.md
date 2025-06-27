@@ -1,4 +1,4 @@
-# 🏡 California Housing Price Prediction using SVM
+# 🏡 California Housing Price Prediction using SVR
 
 This project uses **Support Vector Regression (SVR)** from `scikit-learn` to predict house prices based on features from the **California Housing Dataset**. The goal is to build a regression model that can estimate median house values across various districts in California.
 
